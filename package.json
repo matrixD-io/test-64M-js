@@ -1,0 +1,24 @@
+{
+  "name": "@matrixd/test-64m",
+  "version": "0.1.0",
+  "description": "A test package 64MB in size",
+  "main": "index.js",
+  "homepage": "https://github.com/matrixD-io/test-64M-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrixD-io/test-64M-js.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "64MB.bin",
+    "README.md"
+  ],
+  "author": "matrixD, inc.",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
